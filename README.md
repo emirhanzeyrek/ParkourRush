@@ -8,8 +8,8 @@ In this game set in an endless underground world, you must overcome obstacles on
 * OS: Windows
 
 ## Screenshots
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/Parkour-Rush/assets/121854589/a7ff6f9f-e48b-48d4-93e7-25bed5393f1a">
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/Parkour-Rush/assets/121854589/13a8dd81-2138-4533-beee-72d1dfb87068">
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/Parkour-Rush/assets/121854589/652e59cc-90fb-41b8-b608-1168e41b4b88">
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/Parkour-Rush/assets/121854589/b4137d0f-3f6e-4536-a96f-c284dde446d5">
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/Parkour-Rush/assets/121854589/afa93ba1-c640-408e-8566-170a1ad3e35c">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c3d15fab-14ed-47f7-97ca-6e74f36f230d">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1bf19e51-0cf7-4fb3-a827-fc7cb67ce9b7">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/07990fdd-ff06-42b7-9289-b72e8fa0ab52">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b4f3c587-655c-4087-8146-238d1e9bedfe">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c9a87e9a-44af-47fd-a348-95732872c58d">
