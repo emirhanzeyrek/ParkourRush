@@ -1,7 +1,7 @@
 # Parkour Rush
 In this game set in an endless underground world, you must overcome obstacles on moving platforms while eliminating enemies coming from the outside world without letting them harm your character.
 
-## Technologies Used
+## Technologies
 * Development Environment: Unity
 * Programming Language: C#
 * Modeling: Blender
